@@ -4,4 +4,4 @@
 
 Tugas Minggu 3 : Mengerjakan RecyclerView menggunakan android studio
 
-![Screenshot recyclerview](images/01.png)
+![Screenshot recyclerview](image/01.png)
